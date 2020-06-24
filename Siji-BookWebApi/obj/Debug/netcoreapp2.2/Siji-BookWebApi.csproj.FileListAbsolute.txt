@@ -1,0 +1,13 @@
+C:\Users\siji4\Documents\Cyberspace\Siji-BookWebApi\Siji-BookWebApi\bin\Debug\netcoreapp2.2\Siji-BookWebApi.deps.json
+C:\Users\siji4\Documents\Cyberspace\Siji-BookWebApi\Siji-BookWebApi\bin\Debug\netcoreapp2.2\Siji-BookWebApi.runtimeconfig.json
+C:\Users\siji4\Documents\Cyberspace\Siji-BookWebApi\Siji-BookWebApi\bin\Debug\netcoreapp2.2\Siji-BookWebApi.runtimeconfig.dev.json
+C:\Users\siji4\Documents\Cyberspace\Siji-BookWebApi\Siji-BookWebApi\bin\Debug\netcoreapp2.2\Siji-BookWebApi.dll
+C:\Users\siji4\Documents\Cyberspace\Siji-BookWebApi\Siji-BookWebApi\obj\Debug\netcoreapp2.2\Siji-BookWebApi.csproj.CoreCompileInputs.cache
+C:\Users\siji4\Documents\Cyberspace\Siji-BookWebApi\Siji-BookWebApi\obj\Debug\netcoreapp2.2\Siji-BookWebApi.RazorAssemblyInfo.cache
+C:\Users\siji4\Documents\Cyberspace\Siji-BookWebApi\Siji-BookWebApi\obj\Debug\netcoreapp2.2\Siji-BookWebApi.RazorAssemblyInfo.cs
+C:\Users\siji4\Documents\Cyberspace\Siji-BookWebApi\Siji-BookWebApi\obj\Debug\netcoreapp2.2\Siji-BookWebApi.AssemblyInfoInputs.cache
+C:\Users\siji4\Documents\Cyberspace\Siji-BookWebApi\Siji-BookWebApi\obj\Debug\netcoreapp2.2\Siji-BookWebApi.AssemblyInfo.cs
+C:\Users\siji4\Documents\Cyberspace\Siji-BookWebApi\Siji-BookWebApi\obj\Debug\netcoreapp2.2\Siji-BookWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\siji4\Documents\Cyberspace\Siji-BookWebApi\Siji-BookWebApi\bin\Debug\netcoreapp2.2\Siji-BookWebApi.pdb
+C:\Users\siji4\Documents\Cyberspace\Siji-BookWebApi\Siji-BookWebApi\obj\Debug\netcoreapp2.2\Siji-BookWebApi.dll
+C:\Users\siji4\Documents\Cyberspace\Siji-BookWebApi\Siji-BookWebApi\obj\Debug\netcoreapp2.2\Siji-BookWebApi.pdb
